@@ -366,7 +366,7 @@ Hitler's treatment of Jews; Yigal Amir's killing of Israeli Prime Minister Yitzh
 
 “Goyim[non-Jews] were born only to serve us. Without that, they have no place in the world – only to serve the People of Israel,"...“Why are gentiles needed? They will work, they will plow, they will reap. We will sit like an effendi and eat. That is why gentiles [were created,”](https://www.timesofisrael.com/5-of-ovadia-yosefs-most-controversial-quotations/)
 
-His funeral was attended by over 800,000 adoring Jews in Jerusalem... These are all understandable intellectual errors mostly rooted in economic ignorance and the evolved nature/instincts of the slightly smarter apes. 
+His funeral was attended by over 800,000 adoring Jews in Jerusalem... These are all understandable intellectual errors mostly rooted in economic ignorance and the evolved nature/instincts of the slightly smarter apes. If this influential/popular religious leader can say that about non-Jews a decade into the 21st century, one can only imagine(and easily find in older Jewish texts and statements by countless others) even more insulting absurdities which will understandably lead to horrific treatment from the equally mystical and backward Christians and Moslems of antiquity(and today as well sadly). Again, unfortunate, but what can we do, we are slightly smarter apes after all. The best we can hope for is to become “civilized” slightly smarter apes, which we do by understanding what leads to civilization, private property, intellectual freedom, the selection of superior information and order that emerges from it.
 
 
 ### Why we have complex microchips but not peace
