@@ -1,52 +1,10 @@
 # Let There be Order: An Introduction to F.A. Hayek
 
-<style>
-#toc a {
-
-	display :block;
-
-
-}
-</style>
-
 <img src="hayek_quote.jpeg" alt="Hayek Quote"
 	title="Hayek Quote" width="750" height="300" />
 
-## Table of Contents
-<div id="toc">
-<a href="#A">Introduction</a>
-<a href="#B">Biological and Social Order</a>
-<a href="#C">Creation and Spread of Information via Biological Evolution</a>
-<a href="#D">More complexity requires more information</a>
-<a href="#E">Economics</a>
-<a href="#F">Money I</a>
-<a href="#G">Money II</a>
-<a href="#H">Trade and the Division of Labor and Information</a>
-<a href="#A">Creation and Spread of Information via Economic Competition</a>
-<a href="#A">Prices and the Impossibility of ‘Central Planning’/Socialism/Communism</a>
-<a href="#A">Savings, Interest Rates and the Clueless Mainstream Keynesian Economists</a>
-<a href="#A">You can’t print savings/wealth. The Errors of Keynes, Krugman and the mainstream.</a>
-<a href="#A">Morals as Superior Information</a>
-<a href="#A">Government/‘Public Sector’ is an Inefficient Monopoly</a>
-<a href="#A">Regulatory Paralysis</a>
-<a href="#A">Patents</a>
-<a href="#A">Hayekian Cultural Evolution</a>
-<a href="#A">Early Cultural Evolution : Names, Self, Identity (Jews/Zionists/antisemites as example), Language and Reason</a>
-<a href="#A">Cultural, not Biological Evolution is the key</a>
-<a href="#A">Bite-sized Economic Wisdom</a>
-<a href="#A">Economic ignorance is the root cause of the relative underperformance of “minorities”/blacks</a>
-<a href="#A">The the war on drugs</a>
-<a href="#A">The benefits of immigration</a>
-<a href="#A">Private Governance</a>
-<a href="#A">Cultural Evolution Applied: Economic ignorance as the root of antisemitism and its disastrous repercussions</a>
-<a href="#A">Slightly Smarter Apes and their Militarism</a>
-<a href="#A">All Roads Lead to Mises/Hayek</a>
-<a href="#A">Concluding remarks</a>
-</div>
-
-<a id="A"/>
-
-## Introduction
+ 
+## Introduction 
 
 The human body/organism and the numerous "systems" that coordinate it like the respiratory, nervous, and digestive "systems", is the result of the actions of some 30 trillion cells but obviously NOT the result of any conscious planning or designing by them. Thanks to the likes of Darwin and a modern understanding of genetics we can understand how natural selection was the inadvertent "designer" of such systems and complex order. The global socioeconomic order, or what the great British 19th century thinker Herbert Spencer referred to as ["The Social Organism"](https://oll.libertyfund.org/titles/spencer-the-man-versus-the-state-with-six-essays-on-government-society-and-freedom-lf-ed), is also coordinated by a "system", by what economists of the so-called 'Austrian School' like Ludwig von Mises and his great protégé, 1974 Nobel Laureate in Economics F.A. Hayek, referred to as "The Market Process". 'The Market Process' and the "parts" it is composed of like money, prices, economic competition, interest rates, and the legal/religious/governmental frameworks that sustain it, "are indeed the result of human action, but not the execution of any human design" (Adam Ferguson). The 'market process' shares this trait with language which is also a complex mechanism that is the result of human action but was not consciously designed or invented by people/cells. Just like cells are unaware of why they act the way they do and how natural selection has evolved them over billions of years to be parts of complex multi-cellular organisms, so is mankind unaware of how "processes of selective evolution" have shaped "the brain and society" and created "the market process" which coordinates our actions to create Spencer's "Social Organism".
 
@@ -58,8 +16,6 @@ So how did Hayek 'put it all together'?. Easy. Hayek realized that "all enduring
 
 What follows below can be roughly divided into two parts, the first discusses how the socioeconomicorder works, and the second how it has co-evolved with culture/religion/ideology. As we do so we try to apply the ideas focusing on how economic ignorance is the root of mankind's most pressing problems including antisemitsm/Jew-Gentile relations which continue to play such a disastrous role in the Middle East and will likely lead to mankind's final world war. This essay is written with a 'Misesian Ethos'. Ludwig von Mises believed that "Economics deals with society’s fundamental problems; it concerns everyone and belongs to all. It is the main and proper study of every [citizen”](https://mises.org/library/human-action-0/html/pp/932) and is thus it is written with the hope/expectation that it can be understood by the curious/motivated layperson.
 
-<a id="B"/>
-
 ## Biological and Social Order
 
 "Enduring structures" like living things and society are self-perpetuating orders that are in continuous cycles of wealth production and consumption. Production involves the transformation or relocation of matter to create wealth. As economist Eugen von Böhm-Bawerk put it:  
@@ -68,23 +24,15 @@ What follows below can be roughly divided into two parts, the first discusses ho
 
 And consumption transforms/relocates wealth/matter in a way that sustains or expands living things/orders and their internal parts/orders. The Sun sends us photons/energy which the process of photosynthesis is able to store in chemical form. This energy is then used to power the cycles of production/consumption. If there is more production than consumption then the order is profitable and thus has additional wealth with which to sustain itself for longer periods and/or grow. For example, paramecium are single-celled life-forms that produce food/wealth by swimming around and swallowing small bacteria which they then consume by digesting and transforming them into the various nutrients/wealth needed to maintain and expand the paramecium's internal order and thus life. A more complex multi-cellular animal like a person, is simply a collection of cells (which are themselves orders) which must be productive as a whole in order to produce and then consume the necessary wealth needed to nourish itself and the sub-orders/organs/cells/organelles it is composed of. Today we not only have biological order, we have social order, Spencer's "Social Organism", which is rapidly growing and increasing its 'rate of production', in other words, the rate at which it transforms the earth's matter into human usable wealth/order/life/biomass. Every year, increasingly automated building-sized machinery in the mining industries scrape/mine less than 10 cubic miles of matter from the earth's massive volume of 260 billion cubic miles. This matter is 'collaboratively transformed' or relocated by billions of people as trillions of dollars worth of wealth in terms of cars/computers/buildings/products/etc. are produced thus increasing the word's economic pie of wealth and social order. These continuous cycles of production and consumption require precise knowledge/information. By focusing on how information arises, spreads, and guides these cycles of production and consumption which lead to order/life/society we can have a simple yet profound understanding of how the entire world works.
 
-<a id="C"/>
-
 ## Creation and Spread of Information via Biological Evolution
 
 "Processes of selective evolution" can be said to have created two mechanisms for creating two types of orders/"enduring structures", biological and social. The biological order is created via the well-known mechanism of 'biological evolution' with genes being like the sentences which store the information necessary to create/coordinate life/order. Mutations cause new genes and thus new information to arise which leads to a different life-form which is then 'naturally selected' as it inadvertently competes with others, with the winner reproducing more and thus passing on more copies of the better-adapted/"fitter" genes/information/design to later generations.
-
-<a id="D"/>
 
 ## More complexity requires more information
 
 The more complex a thing is, the more information is needed to create it and keep it in order. Tiny E. coli bacteria have about 4,000 genes and are relatively simple in structure and function. On the other hand, each human cell has about 25,000 genes thus containing far more information allowing each cell to specialize and take part in a vast "division of labor" by transforming itself into a heart/lung/nerve/etc. cell as a young fetus develops inside the womb. About 500 million years ago, life-forms with brains began to emerge which allowed information to be stored outside of genes. Eventually life-forms evolved that used their brains to be increasingly "social" and cooperate with others to reach even higher levels of relative productivity/fitness/competitiveness which leads us to ourselves, anatomically-modern man (about 50,000 years ago), whose ancestors had spent over 2 million years living in small nomadic tribes of about 15 to 150 people where everyone more or less knew how to do the same things so information was inefficiently repeated across the social order. Just like few genes/information leads to simple bacteria, few brains lead to a simple and relatively unproductive social order. Tribal man had an information storage/sharing problem. Then something wonderful happened, something as momentous in the history of life as the emergence of biological evolution. The so-called 'market process' and its various components like trade, money, economic competition, and very recently "interest rate coordination" began to emerge, thus giving birth to Spencer's "Social Organism".
 
-<a id="E"/>
-
 ## Economics
-
-<a id="F"/>
 
 ### Money I
 
@@ -96,13 +44,9 @@ We begin by introducing 3 simple concepts which are like a Swiss-army knife of e
 
 3. More money leads to and enables higher prices. For example, if there are 1,000 people in an island (BlueIsle) and each has $100 for a total of $100,000 in the island, can anything sell for $200,000? Of course not, even if they all combined their money such a transaction could not happen because there isn't enough money, but what if each person had $500 so that there is now a total of $500,000? Then yes obviously, prices could go up to $500,000. So for general prices to go up there HAS to be more money. And who creates the money and is ultimately responsible for a general increase in prices? Generally speaking, today all money is created by governments via their central banks (Federal Reserve in USA) and they are thus responsible for the price increases. Assuming the total amount of money remains stable, if the economy/wealth is expanding, which can only happen if the rate at which goods/services/wealth is produced is faster than the rate at which it is consumed, we expect general prices to go DOWN because the money will sort of get divided among more goods/wealth so less money per item/wealth means a lower price. If the amount of wealth remains stable or grows slower than the amount/supply of money, then we have more money per item, thus higher prices.
 
-<a id="G"/>
-
 ### Money II
 
 Let's go over another insightful scenario. Keep your eye on how much wealth is being produced and consumed, and the relationship between the quantity of money, wealth, and thus prices. Let's say Alan prints himself another $100,000 which is enough to hire half the people in BlueIsle for 3 months while they build him a small castle. Alan thinks this is a great idea, he is paying some people more than what they were making before, there were also a few unemployed or unmotivated-to-work people before but he is offering enough money to get everyone working thus achieving "full-employment". Prior to trading their labor for Alan's paper/money, people were producing stuff that they either wanted/needed to consume themselves or could be sold/traded to others who obviously wanted/needed to consume them, they were producing "socially desired" or "order/life creating/sustaining" stuff like oranges/apples/hair-cuts/blankets/baskets/etc. The day half the population begins working on Alan's castle, the island's economic pie begins to lose half its "socially desired" stuff/wealth since half the population is no longer creating it, and begins increasing the amount of rocks, ladders, and other things for Alan's castle. These things, are NOT "socially desired" or "order creating/sustaining" wealth as judged/calculated by the inhabitants. Since the existing $100,000 will be distributed over half as many socially-desired-goods, this would eventually motivate their prices to about double. However, since Alan is further doubling the money supply as he pays people using his newly printed $100,000, on the last days of castle-building, when half the population is still working on his castle and they have also received most of the new $100,000, prices would have nearly doubled once again making them about 4 times higher than they were before Alan came up with his idea. It should be easy to see that Alan has reordered society in an inferior way. Everyone is "working" and making more money than before, but the unavoidable reality that they are ordered in a less productive way reflects itself in the much higher prices and smaller amount of wealth on average that each can consume. Ideally people now "lose their jobs", and instead of working on the easily identifiable yet disastrous plan laid out by Alan, for a few days there appears to be "chaos" as people discover superior plans and likely transition to their old trades/jobs thus once again reordering society on a far, far more productive way. However, they are **economically ignorant**, so they tell Alan "Can you hire us again to make the castle bigger? You pay us more than what we used to make before. You are about to create massive unemployment". Alan thinks to himself "Gosh! It is a good thing that by creating money I am preventing massive unemployment and chaos. Obviously I must keep providing 'liquidity'!" So the relative suffering continues. Had Alan been a bad king, who taxed people at a 50% rate to get the wealth to build his castle, the people's living standard would have suffered similarly, but they would have easily understood the fact that their wealth was taken from them for the creation of things they didn't want or benefit from for a hopefully more obvious massive loss. So we can see how "inflating the money supply", in other words, creating more money, can be used to expropriate wealth from society without having to coerce it from anyone. You are similarly worse off if a bad king takes half of your saved $1,000 leaving you with $500 with which to buy 500 $1 hamburgers instead of 1,000, than if the king doubles the money supply and spends it to acquire wealth causing prices to double so that your $1,000 will only buy you 500 hamburgers at $2 each. Under normal circumstances everyone is producing, trading, and consuming, but those who create money are pure consumers who once again leave society with less wealth and more money thus higher prices. 
-
-<a id="H"/>
 
 ### Trade and the Division of Labor and Information
 
