@@ -369,7 +369,7 @@ Hitler's treatment of Jews; Yigal Amir's killing of Israeli Prime Minister Yitzh
 His funeral was attended by over 800,000 adoring Jews in Jerusalem... These are all understandable intellectual errors mostly rooted in economic ignorance and the evolved nature/instincts of the slightly smarter apes. 
 
 
-### All Roads Lead to Mises/Hayek
+### Why we have complex microchips but not peace
 
 How can mankind build mindbogglingly complex microchips, the Internet and so much more, yet still not have figured out something as simple as peace? Is there something to be learned from the fact that in July 1914 so many people/Henrys/leaders/"experts" brainwashed themselves into such needless carnage yet hardly anyone today has the slightest clue why WWI was fought? Everyone in that tribal disaster died for absolutely NOTHING. Similarly, is there something to be learned from the fact that with the best of intentions millions during the 20th century fell for Socialism/Communism thus inadvertently bringing unimaginable suffering upon themselves, and that to this day hardly anyone in the entire planet knows what 'the market process' is, the vital role that private property plays in its emergence and thus civilization, and much less how the whole thing has evolved? The answers to these questions stem from a common root. Hayek answers:
 
