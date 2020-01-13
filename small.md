@@ -1,4 +1,4 @@
-# Let There be Order: An Introduction to F.A. Hayek
+# Let There Be Order: An Introduction to Mises/Hayek and Current Applications
 
 <img src="hayek_quote.jpeg" alt="Hayek Quote"
 	title="Hayek Quote" width="750" height="300" />
