@@ -1,6 +1,6 @@
 
-<img src="hayek.jpg" alt="Hayek"
-	title="Hayek" width="750" height="300" />
+<img src="hayek.jpg" alt="Hayek" style=""
+	title="Hayek" width="350" height="400" />
 
 
 # The Creation and Spread of Information and Superior Morals via Economic Competition
