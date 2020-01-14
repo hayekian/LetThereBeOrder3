@@ -1,7 +1,7 @@
-
+<!--
 <img src="hayek.jpg" alt="Hayek" style=""
 	title="Hayek" width="350" height="400" />
-
+-->
 
 # The Creation and Spread of Information and Superior Morals via Economic Competition
 
@@ -10,7 +10,7 @@ In the socioeconomic order information arises and spreads largely thanks to econ
 Just like in the Olympics we can discover the best athletes in the world due to global competition, so does free-trade among all nations/peoples/orders allows the best ideas to compete/spread globally thus ensuring the best possible global order. As cost-cutting ideas emerge and inevitably spread via competition leading relative prices to continuously fall, new profitable ideas easily arise and once again spread via competition in an endless cycle of knowledge generation/innovation. For example, computers were once very expensive, but once the price of making them came down enough, people easily realized that every home could have them, which gave birth to our computerized world and the Internet and all the great things that flow from it. The more wealth is produced, the more wealth has to be offered in exchange for labor as companies/orders compete against each other for the labor they need which helps explain why the economic pie grows for everyone. For example, imagine that after a shipwreck you end up in an island where everyone has a machine that can turn dirt into food. Tom wants your labor to build a home, Mark, to build a boat, and Gina to plant a garden. Competition will motivate them to offer you all the food you want and more.  
 
 
-We should quickly add that morals are simply ways of acting, they are knowledge which also emerges and spreads via economic competition. Companies/orders that hire/nourish/'trade with' lazy, disrespectful, or corrupt people will be less competitive and be inevitably pressured/selected to hire people with better morals which in turn forces everyone to be respectful and hardworking regardless of race, sex, etc. Similarly, it is hard-working, tolerant, courteous people who thanks to competition inevitably force everyone else to be likewise. As Hayek tells us:
+We should quickly add that morals are simply ways of acting, they are knowledge which also emerges and spreads via economic competition to considerable degrees. Companies/orders that hire/nourish/'trade with' lazy, disrespectful, or corrupt people will be less competitive and be inevitably pressured/selected to hire people with better morals which in turn forces everyone to be respectful and hardworking regardless of race, sex, etc. Similarly, it is hard-working, tolerant, courteous people who thanks to competition inevitably force everyone else to be likewise. As Hayek tells us:
 
 >"Competition is, after all, always a process in which a small number makes it necessary for larger numbers to do what they do not like, be it to work harder, to change habits, or to devote a degree of attention, continuous application, or regularity to their work which without competition would not be needed." [(Hayek "Law, Legislation and Liberty, Volume 3: The Political Order of a Free People" 1981, p. 77)](https://books.google.com/books?id=4z7XZJSd0wcC&pg=PA77&lpg=PA77&dq=%22Competition+is,+after+all,+always+a+process+in+which+a+small%22&source=bl&ots=zm-LsEKP0I&sig=ACfU3U1jrV2xSluN9X877kWebemSS02ZAA&hl=en&sa=X&ved=2ahUKEwiAoY-Ap-7mAhXBl54KHYf6A8oQ6AEwAnoECAoQAQ#v=onepage&q=%22Competition%20is%2C%20after%20all%2C%20always%20a%20process%20in%20which%20a%20small%22&f=false)
 
